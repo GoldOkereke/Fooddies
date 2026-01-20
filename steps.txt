@@ -1,0 +1,9 @@
+Install tailwindcss, rect and typescript
+clear app.jsx
+create color variables
+create font family variables
+create components
+create empty navbar component
+display navbar in app
+add ul to navabar
+Make nav items data-driven   TypeScript enters
